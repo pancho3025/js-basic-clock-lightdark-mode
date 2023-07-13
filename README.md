@@ -1,4 +1,4 @@
-# js-basic-clock-lightdark-mode
+# JS Simple Clock
 
 simple clock with dark/light mode using JS Date.
 
